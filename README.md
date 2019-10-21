@@ -1,1 +1,3 @@
-# esm206-lab4-part2-lm
+# This is my awesome ReadMe
+
+Lauren Lab 4 Part 2
